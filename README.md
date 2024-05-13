@@ -1,2 +1,2 @@
 # Java---M08-Final-Project-Submission
-This Java program is a web-based ATM application for convenient and secure online banking. Users can check balances, make withdrawals and deposits, and transfer funds. Customizable themes enhance the user experience
+This Java program is a web-based ATM application for convenient and secure online banking. Users can check balances, make withdrawals and deposits, and transfer funds. Customizable themes enhance the user experience.  It's been an absolute honor and priveledge to be in this course.  This is my last and final assignment at Ivy Tech.  Thank you for teaching me to code.  I will never forget where my roots are.  I am a Proud Ivy Tech Computer Programmer, forever. ~Tiv 
